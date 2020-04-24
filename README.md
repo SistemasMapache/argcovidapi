@@ -1,3 +1,6 @@
+fork de 
+https://github.com/mariano22/argcovidapi
+
 # Argentina and Santa Fe COVID API
 
 Based on handed scraped data on goverment reports:
